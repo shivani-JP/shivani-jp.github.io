@@ -11,7 +11,7 @@ redirect_from:
 
 Work experience
 ======
-i) June 2022 - September 2023: 
+i) June 2023 - September 2023: 
 * Data Scientist, NHS NORTHWEST AMBULANCE SERVICES, Manchester, UK 
   * Predicted ambulance response time by implementing 3 random forest models for regression analysis and one classification model that achieved 94% accuracy. Created new statistical algorithms for ambulance demand density calculation, ensuring compliance with data governance.Utilized these insights to build a simulation model, optimizing dispatch center placements to achieve significant reductions in response times across targeted regions.
   * Collaborated with technical and non-technical stakeholders, such as Business Analysts, Data    Analysts, PMO, and cross-functional teams, to gain domain expertise and understand the data, ensuring timely deliverables.
