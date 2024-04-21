@@ -1,7 +1,6 @@
 ---
 title: "ATM Data Timeseries Forecasting"
-excerpt: "Forecasting 14 days ATM transaction using time series analysis 
-<img src='/images/timeseries.png' width='580' height='300' alt='timeseries Image'>"
+excerpt: "Forecasting 14 days ATM transaction using time series analysis <img src='/images/timeseries.png' width='580' height='300' alt='Time Series Image'>"
 collection: portfolio
 ---
 Exploratory data analysis 
