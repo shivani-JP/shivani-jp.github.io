@@ -28,14 +28,19 @@ Machine Learning Models for Accurate Forecasting
 3. Model Comparison:
     1. Compared model performance against Naïve and Seasonal Naïve models to determine the best-fit model for forecasting ATM withdrawal data.
     
-Exponential smoothing model
-<img src='/images/es.png' width='580' height='300' alt='es Image'>"
+# Exponential smoothing model
 
-Arima model
-<img src='/images/arima.png' width='580' height='300' alt='arima Image'>"
+![Exponential Smoothing](/images/es.png)
 
-Regression model
-<img src='/images/regression.png' width='580' height='300' alt='regression Image'>"
+# ARIMA model
 
-Neural network model
-<img src='/images/neural.png' width='580' height='300' alt='neural Image'>"
+![ARIMA](/images/arima.png)
+
+# Regression model
+
+![Regression](/images/regression.png)
+
+# Neural network model
+
+![Neural Network](/images/neural.png)
+
