@@ -4,7 +4,7 @@ excerpt: "Forecasting 14 days ATM transaction using time series analysis <img sr
 collection: portfolio
 ---
 Exploratory data analysis 
-<br/><img src='/images/seasonal.png'>
+<img src='/images/seasonal.png' width='580' height='300' alt='sesonal Image'>"
 1. Exploration and Analysis:
     1. Thoroughly explored and analyzed time series data to identify inherent patterns in real-world data.
     2. Documented findings and prepared a comprehensive technical report with informative graphs.
@@ -29,13 +29,13 @@ Machine Learning Models for Accurate Forecasting
     1. Compared model performance against Naïve and Seasonal Naïve models to determine the best-fit model for forecasting ATM withdrawal data.
     
 Exponential smoothing model
-<br/><img src='/images/es.png'>
+<img src='/images/es.png' width='580' height='300' alt='es Image'>"
 
 Arima model
-<br/><img src='/images/arima.png'>
+<img src='/images/arima.png' width='580' height='300' alt='arima Image'>"
 
 Regression model
-<br/><img src='/images/regression.png'>
+<img src='/images/regression.png' width='580' height='300' alt='regression Image'>"
 
 Neural network model
-<br/><img src='/images/neural.png'>
+<img src='/images/neural.png' width='580' height='300' alt='neural Image'>"
