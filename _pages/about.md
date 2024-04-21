@@ -17,4 +17,4 @@ As an effective communicator, I excel in translating complex technical concepts 
 
 With a continuous search of learning opportunities and a passion for sharing knowledge, I'm currently seeking a challenging role where I can apply my skills and contribute towards driving innovation and success.
 
-Feel free to connect with or contact me via [LinkedIn](www.linkedin.com/in/shivanijeevan/) or [email](shivanijeevanp@gmail.com)
+Feel free to connect with or contact me via LinkedIn or [email](shivanijeevanp@gmail.com)
