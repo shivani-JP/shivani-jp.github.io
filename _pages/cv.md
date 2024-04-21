@@ -29,10 +29,11 @@ iii) June 2018 - September 2018
 
 Education
 ======
-* M.S. in Data Science, Lancaster University, 2023
-* Coursework: Data Mining (Linear/Logistic), Data Science Fundamentals(hypothesis formulation, research findings implication, data processing, organisation results communication), R and Python Programming, Satistical Fundamentals (MLE and GLM's), Statistical Foundations(Sampling uncertainty, Statistical inference, Model fitting), Advanced Machine Learning, Neural Networks & Deep Learning, Time Series Analysis, Data Visualization, Optimisation and heuristics.
-* B.Eng. in Information Science Engineering, BMS College of Engineering, 2019
-  Coursework: Advanced SQL , C++, Java , Python, Excel
+* Masters in Data Science, Lancaster University, 2023
+  * Coursework: Data Mining (Linear/Logistic), Data Science Fundamentals(hypothesis formulation, research findings implication, data processing, organisation results communication), R and Python Programming, Satistical Fundamentals (MLE and GLM's), Statistical Foundations(Sampling uncertainty, Statistical inference, Model fitting), Advanced Machine Learning, Neural Networks & Deep Learning, Time Series Analysis, Data Visualization, Optimisation and heuristics.
+
+* Bachelors of Engineering in Information Science Engineering, BMS College of Engineering, 2019
+  * Coursework: Advanced SQL , C++, Java , Python, Excel
 
  
 Skills
