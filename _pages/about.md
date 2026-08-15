@@ -9,7 +9,7 @@ redirect_from:
 
 About Me
 
-I'm Shivani, a passionate data scientist with a talent for data-driven storytelling. With a master's degree in data science, alongside a background in mathematics and computer science, and over 3 years of experience in both the banking and health domains, I bring a robust foundation in analytical thinking and problem-solving, particularly in handling and analyzing large datasets.
+I'm Shivani, a passionate data scientist with a talent for data-driven storytelling. With a master's degree in data science, alongside a background in mathematics and computer science, and over 5.5 years of experience in both the banking and health domains, I bring a robust foundation in analytical thinking and problem-solving, particularly in handling and analyzing large datasets.
 
 My expertise lies in designing and implementing scalable data solutions and advanced analytics frameworks, adaptable across diverse industry domains. I have a proven track record of transforming raw data into actionable intelligence, enabling organizations to optimize processes, enhance customer experiences, and achieve sustainable growth.
 
