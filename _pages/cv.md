@@ -11,21 +11,50 @@ redirect_from:
 
 Work experience
 ======
-i) June 2023 - September 2023: 
-* Data Scientist, NHS NORTHWEST AMBULANCE SERVICES, Manchester, UK 
-  * Predicted ambulance response time by implementing 3 random forest models for regression analysis and one classification model that achieved 94% accuracy. Created new statistical algorithms for ambulance demand density calculation, ensuring compliance with data governance.Utilized these insights to build a simulation model, optimizing dispatch center placements to achieve significant reductions in response times across targeted regions.
-  * Collaborated with technical and non-technical stakeholders, such as Business Analysts, Data    Analysts, PMO, and cross-functional teams, to gain domain expertise and understand the data, ensuring timely deliverables.
+i) Dec 2024 – Apr 2026
+Senior Business Data Analyst – AI & Data
+Mpower Financing
+Bangalore , India (Remote)
+* Owned the end-to-end data-product lifecycle for 3 asset-backed securitisation transactions — from source-system discovery and loan-level data definitions through metadata governance, source-to-target mapping and collateral-pool reporting , building the governed data foundation that underpinned investor due diligence and regulatory compliance.
+* Architected and deployed automated loan-performance and risk-reporting pipelines (SQL, Python, dbt, Airflow, AWS,Alteryx) with embedded data-quality tests across Salesforce-to-AWS ETL, cutting manual reporting effort by 60% and materially improving traceability and investor confidence.
+* Led exploratory data analysis and feature engineering across borrower, loan and repayment data to build 3 proprietary ML models credit-score, default, and recovery prediction directly strengthening borrower risk assessment and informing lending, portfolio-monitoring and collections decisions.
+* Analysed unstructured financial documents at scale and built an AI-powered document reader (OCR + LLMs) to extract, classify and summarise them — replacing manual review with a scalable, decision-ready retrieval system.
+* Drove FP&A for the data function by analysing budget , spend and resourcing data for the data function (forecasting, variance analysis), giving senior leadership real-time visibility into capacity and cost drivers.
+* Evaluated marketing effectiveness by analysing GA4, CAC and channel-performance data via SQL, translating findings into recommendations that bridged data engineering, product and business stakeholders.
 
-ii) June 2019 - September 2022
-* Big Data Engineer, MAVERIC SYSTEMS, Bangalore, India 
-  * Client - Citibank North America
+ii) Sept 2024 – Dec 2024
+Data & Analytics Consultant
+IFQT 
+Dubai , UAE 
+* Delivered investment portfolio analysis using time-series forecasting and SQL, to senior stakeholders with risk-adjusted return insights that directly shaped capital-allocation decisions.
+* Produced executive ready reporting and scenario analysis for a Dubai-based financial analytics firm, translating complex analysis into board-level narratives.
+
+iii) June 2023 - April 2024: 
+Data Scientist
+NHS Northwest Ambulance Services
+Manchester , United Kingdom
+
+* Tested the feasibility of predictive operational planning by building and evaluating Random Forest regression models for journey, response and triage time, rigorously identified underfitting (R²: 0.78) and defined the richer operational data required before deployment, preventing a flawed model from reaching live operations.
+* Developed an on-time compliance classifier across 63,940 ambulance cases achieving 81.6% accuracy, correctly classifying 47,928 on-time and 4,239 delayed cases, and pinpointed 10,003 false negatives as the key model-risk area to guide future sensitivity improvements.
+* Identified critical response-time blind spots on EHR data by analysing nearest-station distance and regional response patterns, generating evidence that directly informed ambulance positioning and hotspot planning for critical incidents.
+* Built Power BI dashboards and data models spanning 5+ operational KPIs, cutting response-time analysis from hours to minutes and giving operational managers real-time performance visibility.
+
+iv) June 2019 - September 2022
+Big Data Engineer
+MAVERIC SYSTEMS - Client: Citibank North America
+Bangalore, India 
+
   * Spearheaded the implementation of a Kafka-Spark AWS Cloud data pipeline for Credit Card transactions, resulting in a notable 30% speed improvement crucial for real-time transaction analysis in the banking sector, while ensuring high code quality and adherence to departmental practices for efficient project management using Jira, earning recognition from the Director for outstanding performance.
   * Applied statistical methods such as regression analysis, correlation analysis, and NLP sentiment analysis to gain insights from large datasets, optimizing marketing strategies for enhanced business outcomes.
+  * Queried and validated large-scale banking datasets (Hive/Hadoop) to support analytics and reporting across North America portfolios.
+  * Led the migration of BAU analytical datasets and reporting workflows onto the Enterprise Analytics Platform, safeguarding data integrity and driving user adoption with zero business disruption.
 
-iii) June 2018 - September 2018
-  * Business Analyst Intern, Sable 37 , Dubai, UAE
-    * Optimized PowerBI HR Dashboards, enhancing data interpretation and cross-functional collaboration.
-    * Automated HR reports with advanced Excel, creating interactive dashboards, thereby boosting operational efficiency.
+v) June 2018 - September 2018
+Business Analyst Intern
+Sable 37
+Dubai, UAE
+  * Optimized PowerBI HR Dashboards, enhancing data interpretation and cross-functional collaboration.
+  * Automated HR reports with advanced Excel, creating interactive dashboards, thereby boosting operational efficiency.
 
 Education
 ======
@@ -35,6 +64,8 @@ Education
 * Bachelors of Engineering in Information Science Engineering, BMS College of Engineering, 2019
   * Coursework: Advanced SQL , C++, Java , Python, Excel
 
+1st to 12th Grade | Sharjah Indian School, UAE | 2019
+Major : Science with Math 
  
 Skills
 ======
