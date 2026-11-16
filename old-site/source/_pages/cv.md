@@ -11,6 +11,7 @@ redirect_from:
 
 Work experience
 ======
+<<<<<<< HEAD
 i) Dec 2024 – Apr 2026
 Senior Business Data Analyst – AI & Data
 Mpower Financing
@@ -55,6 +56,23 @@ Sable 37
 Dubai, UAE
   * Optimized PowerBI HR Dashboards, enhancing data interpretation and cross-functional collaboration.
   * Automated HR reports with advanced Excel, creating interactive dashboards, thereby boosting operational efficiency.
+=======
+i) June 2023 - September 2023: 
+* Data Scientist, NHS NORTHWEST AMBULANCE SERVICES, Manchester, UK 
+  * Predicted ambulance response time by implementing 3 random forest models for regression analysis and one classification model that achieved 94% accuracy. Created new statistical algorithms for ambulance demand density calculation, ensuring compliance with data governance.Utilized these insights to build a simulation model, optimizing dispatch center placements to achieve significant reductions in response times across targeted regions.
+  * Collaborated with technical and non-technical stakeholders, such as Business Analysts, Data    Analysts, PMO, and cross-functional teams, to gain domain expertise and understand the data, ensuring timely deliverables.
+
+ii) June 2019 - September 2022
+* Big Data Engineer, MAVERIC SYSTEMS, Bangalore, India 
+  * Client - Citibank North America
+  * Spearheaded the implementation of a Kafka-Spark AWS Cloud data pipeline for Credit Card transactions, resulting in a notable 30% speed improvement crucial for real-time transaction analysis in the banking sector, while ensuring high code quality and adherence to departmental practices for efficient project management using Jira, earning recognition from the Director for outstanding performance.
+  * Applied statistical methods such as regression analysis, correlation analysis, and NLP sentiment analysis to gain insights from large datasets, optimizing marketing strategies for enhanced business outcomes.
+
+iii) June 2018 - September 2018
+  * Business Analyst Intern, Sable 37 , Dubai, UAE
+    * Optimized PowerBI HR Dashboards, enhancing data interpretation and cross-functional collaboration.
+    * Automated HR reports with advanced Excel, creating interactive dashboards, thereby boosting operational efficiency.
+>>>>>>> 85995896d2439faa5b52c5ea78902eaa7199d0e1
 
 Education
 ======
@@ -64,8 +82,11 @@ Education
 * Bachelors of Engineering in Information Science Engineering, BMS College of Engineering, 2019
   * Coursework: Advanced SQL , C++, Java , Python, Excel
 
+<<<<<<< HEAD
 1st to 12th Grade | Sharjah Indian School, UAE | 2019
 Major : Science with Math 
+=======
+>>>>>>> 85995896d2439faa5b52c5ea78902eaa7199d0e1
  
 Skills
 ======
